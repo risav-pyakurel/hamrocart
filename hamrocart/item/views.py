@@ -11,5 +11,5 @@ def detail(request,pk):
   ,{
     'item': item,
     'related_items':related_items,
-    
+
   })
